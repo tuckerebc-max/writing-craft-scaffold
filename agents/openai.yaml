@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Craft: Scaffold"
+  short_description: "Sequence and calibrate a writing-craft system."
+  default_prompt: "Use $writing-craft-scaffold to sequence writing passes, calibrate examples to the writer domain and voice, and identify where the process should bend."
